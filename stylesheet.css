@@ -1,0 +1,16 @@
+body {
+	background-image: url("download.jpeg");
+	background-repeat: repeat;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h1 {
+	color: orange;
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+img {
+	display: block;
+	margin: auto;
+}
